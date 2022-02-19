@@ -1,0 +1,1033 @@
+/* screen - fullhd */
+
+.fullhd {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 25485.0px;
+  min-width: 1920px;
+  overflow-x: hidden;
+}
+
+.fullhd .overlap-group10 {
+  height: 25485px;
+  margin-left: -20px;
+  position: relative;
+  width: 1993px;
+}
+
+.fullhd .background {
+  background-color: var(--lightning-yellow);
+  height: 25485px;
+  left: 20px;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.fullhd .overlap-group {
+  height: 123px;
+  left: 1594px;
+  position: absolute;
+  top: 458px;
+  width: 268px;
+}
+
+.fullhd .rectangle-2 {
+  background-color: #db121a;
+  height: 123px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 267px;
+}
+
+.fullhd .connect {
+  color: var(--lightning-yellow);
+  font-family: var(--font-family-sriracha);
+  font-size: 50px;
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  width: 267px;
+}
+
+.fullhd .top-page-logo {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  left: 103px;
+  min-height: 357px;
+  position: absolute;
+  top: 84px;
+  width: 1383px;
+}
+
+.fullhd .livin-the-meme {
+  height: 262px;
+  width: 1383px;
+}
+
+.fullhd .bada-bop-bop-bop-im-livin-it {
+  color: var(--white);
+  font-family: var(--font-family-superfruit-bold);
+  font-size: 70px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 70px;
+  margin-right: 0;
+  margin-top: 2px;
+  min-height: 93px;
+  text-align: center;
+  width: 744px;
+}
+
+.fullhd .redlineseperator {
+  background-color: var(--milano-red);
+  height: 16px;
+  left: 9px;
+  position: absolute;
+  top: 430px;
+  width: 1931px;
+}
+
+.fullhd .redline-seperator {
+  background-color: var(--milano-red);
+  height: 14px;
+  left: 19px;
+  position: absolute;
+  top: 590px;
+  width: 1926px;
+}
+
+.fullhd .crypto-dip {
+  align-items: flex-end;
+  background-color: #59adff;
+  display: flex;
+  flex-direction: column;
+  left: 20px;
+  min-height: 1432px;
+  padding: 86px 25px;
+  position: absolute;
+  top: 754px;
+  width: 1920px;
+}
+
+.fullhd .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 673px;
+  min-width: 1848px;
+}
+
+.fullhd .overlap-group1 {
+  align-items: flex-start;
+  background-image: url(../img/full-hd-rectangle-94320D92-12B6-475D-9A57-0096FC63BA9F.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 413px;
+  margin-top: 28px;
+  min-width: 761px;
+  padding: 23px 120px;
+}
+
+.fullhd .image-2 {
+  height: 145px;
+  transform: rotate(-12deg);
+  width: 145px;
+}
+
+.fullhd .due-to-the-recent-crypto-dip-m {
+  color: var(--lightning-yellow);
+  font-family: var(--font-family-superfruit-bold);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 150px;
+  margin-left: 55px;
+  min-height: 673px;
+  text-align: center;
+  width: 1032px;
+}
+
+.fullhd .image-container {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  height: 476px;
+  margin-right: 38.0px;
+  margin-top: 32px;
+  min-width: 1772px;
+}
+
+.fullhd .image-2-1 {
+  height: 464px;
+  width: 825px;
+}
+
+.fullhd .image-2-2 {
+  align-self: flex-end;
+  height: 469px;
+  margin-left: 114px;
+  width: 833px;
+}
+
+.fullhd .overlap-group2 {
+  height: 2129px;
+  left: 96px;
+  position: absolute;
+  top: 2387px;
+  width: 1896px;
+}
+
+.fullhd .hundreds-of-doge-dogs-had-to-b {
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 144px;
+  position: absolute;
+  text-align: center;
+  top: 389px;
+  width: 884px;
+}
+
+.fullhd .image {
+  height: 710px;
+  left: 1122px;
+  position: absolute;
+  top: 194px;
+  width: 688px;
+}
+
+.fullhd .inthe-armsofan-angel {
+  font-weight: 700;
+  left: 35px;
+  letter-spacing: 0;
+  line-height: 200px;
+  position: absolute;
+  text-align: center;
+  top: 65px;
+  transform: rotate(-5deg);
+  width: 1504px;
+}
+
+.fullhd .image-1 {
+  height: 759px;
+  left: 815px;
+  position: absolute;
+  top: 752px;
+  transform: rotate(11deg);
+  width: 735px;
+}
+
+.fullhd .image-2-3 {
+  height: 552px;
+  left: 27px;
+  position: absolute;
+  top: 1469px;
+  width: 830px;
+}
+
+.fullhd .rectangle {
+  height: 659px;
+  left: 1155px;
+  position: absolute;
+  top: 1081px;
+  transform: rotate(18deg);
+  width: 655px;
+}
+
+.fullhd .image-3 {
+  height: 354px;
+  left: 755px;
+  position: absolute;
+  top: 1775px;
+  width: 735px;
+}
+
+.fullhd .rectangle-5 {
+  height: 130px;
+  left: 544px;
+  position: absolute;
+  top: 1125px;
+  width: 196px;
+}
+
+.fullhd .hiring-section {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 20px;
+  min-height: 3905px;
+  position: absolute;
+  top: 5010px;
+  width: 1921px;
+}
+
+.fullhd .title {
+  color: var(--white);
+  font-family: var(--font-family-superfruit-bold);
+  font-size: 300px;
+  letter-spacing: 0;
+  line-height: 300px;
+  min-height: 361px;
+  text-align: center;
+  width: 1599px;
+}
+
+.fullhd .image-2-4 {
+  height: 790px;
+  margin-right: 1.0px;
+  margin-top: 79px;
+  width: 946px;
+}
+
+.fullhd .notice-the-blue-check-mark {
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 100px;
+  margin-top: 80px;
+  min-height: 117px;
+  text-align: center;
+  white-space: nowrap;
+  width: 903px;
+}
+
+.fullhd .mcdonaldsis-hiring {
+  height: 332px;
+  margin-right: 39.0px;
+  margin-top: 79px;
+  width: 1638px;
+}
+
+.fullhd .apply-today {
+  color: var(--milano-red);
+  font-family: var(--font-family-superfruit-bold);
+  font-size: var(--font-size-xs);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 100px;
+  margin-right: 72.0px;
+  margin-top: 24px;
+  min-height: 182px;
+  text-align: center;
+  transform: rotate(-9deg);
+  width: 655px;
+}
+
+.fullhd .overlap-group3 {
+  height: 635px;
+  margin-right: 1.0px;
+  margin-top: 7px;
+  position: relative;
+  width: 1920px;
+}
+
+.fullhd .image-2-5 {
+  height: 634px;
+  left: 304px;
+  position: absolute;
+  top: 1px;
+  width: 1130px;
+}
+
+.fullhd .rectangle-6 {
+  height: 628px;
+  left: 1048px;
+  position: absolute;
+  top: 1px;
+  width: 872px;
+}
+
+.fullhd .rectangle-4 {
+  height: 634px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 571px;
+}
+
+.fullhd .and-crypto-bros-are-getting-h {
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 200px;
+  margin-right: 1.0px;
+  margin-top: 79px;
+  min-height: 451px;
+  text-align: center;
+  width: 1920px;
+}
+
+.fullhd .image-container-1 {
+  align-items: flex-end;
+  display: flex;
+  margin-left: 109.0px;
+  margin-top: 48px;
+  min-width: 1620px;
+}
+
+.fullhd .image-2-6 {
+  height: 434px;
+  width: 735px;
+}
+
+.fullhd .image-2-7 {
+  height: 466px;
+  margin-left: 105px;
+  width: 780px;
+}
+
+.fullhd .bada-bop-bop-bop-im-livin-it-1 {
+  color: var(--white);
+  font-family: var(--font-family-superfruit-bold);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 150px;
+  margin-left: 123.0px;
+  min-height: 175px;
+  text-align: center;
+  white-space: nowrap;
+  width: 1478px;
+}
+
+.fullhd .limited-bro-spots-available {
+  font-weight: 700;
+  left: 1008px;
+  letter-spacing: 0;
+  line-height: 100px;
+  position: absolute;
+  text-align: center;
+  top: 8983px;
+  white-space: nowrap;
+  width: 932px;
+}
+
+.fullhd .hiring {
+  align-items: flex-end;
+  background-color: #59adff;
+  display: flex;
+  flex-direction: column;
+  left: 20px;
+  min-height: 2920px;
+  padding: 110.9px 36.1px;
+  position: absolute;
+  top: 9094px;
+  width: 1920px;
+}
+
+.fullhd .group-3 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  height: 241px;
+  margin-right: 83.0px;
+  margin-top: 23px;
+  min-width: 1659px;
+}
+
+.fullhd .what-is-livin-the {
+  align-self: flex-end;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 200px;
+  margin-bottom: 1px;
+  min-height: 228px;
+  text-align: center;
+  white-space: nowrap;
+  width: 1023px;
+}
+
+.fullhd .overlap-group1-1 {
+  height: 235px;
+  margin-left: 10px;
+  position: relative;
+  width: 626px;
+}
+
+.fullhd .overlap-group-1 {
+  height: 185px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 220px;
+}
+
+.fullhd .rectangle-3 {
+  height: 185px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 208px;
+}
+
+.fullhd .rectangle-2-1 {
+  height: 185px;
+  left: 12px;
+  position: absolute;
+  top: 0;
+  width: 208px;
+}
+
+.fullhd .eme {
+  font-weight: 700;
+  left: 213px;
+  letter-spacing: 0;
+  line-height: 200px;
+  position: absolute;
+  text-align: center;
+  top: 7px;
+  white-space: nowrap;
+  width: 413px;
+}
+
+.fullhd .overlap-group-container {
+  height: 2290px;
+  margin-top: 144px;
+  position: relative;
+  width: 1846px;
+}
+
+.fullhd .overlap-group3-1 {
+  height: 2202px;
+  left: 7px;
+  position: absolute;
+  top: 0;
+  width: 1848px;
+}
+
+.fullhd .overlap-group2-1 {
+  height: 1784px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1839px;
+}
+
+.fullhd .overlap-group4 {
+  height: 1694px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1839px;
+}
+
+.fullhd .rectangle-7 {
+  height: 360px;
+  left: 1214px;
+  position: absolute;
+  top: 1334px;
+  width: 512px;
+}
+
+.fullhd .shipping-handling-may-appl {
+  color: var(--milano-red);
+  font-family: var(--font-family-sriracha);
+  font-size: 50px;
+  left: 32px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 1139px;
+  width: 1234px;
+}
+
+.fullhd .skip-the-wait {
+  color: var(--lightning-yellow);
+  font-family: var(--font-family-superfruit-bold);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 200px;
+  position: absolute;
+  text-align: center;
+  top: 1335px;
+  white-space: nowrap;
+  width: 1234px;
+}
+
+.fullhd .snapchat-1573190764 {
+  height: 853px;
+  left: 1139px;
+  position: absolute;
+  top: 816px;
+  transform: rotate(-118deg);
+  width: 440px;
+}
+
+.fullhd .after-the-mcdonalds-hiring-ru {
+  color: var(--lightning-yellow);
+  font-family: var(--font-family-supermercado-regular);
+  font-size: var(--font-size-xs);
+  left: 4px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 1351px;
+}
+
+.fullhd .rectangle-1 {
+  height: 576px;
+  left: 1423px;
+  position: absolute;
+  top: 362px;
+  transform: rotate(-104deg);
+  width: 166px;
+}
+
+.fullhd .request-name-tag-drop-off-same {
+  color: var(--lightning-yellow);
+  font-family: var(--font-family-superfruit-bold);
+  font-size: var(--font-size-xxs);
+  font-weight: 700;
+  left: 75px;
+  letter-spacing: 0;
+  line-height: 96px;
+  position: absolute;
+  text-align: center;
+  top: 1582px;
+  width: 1064px;
+}
+
+.fullhd .rectangle-6-1 {
+  height: 366px;
+  left: 1194px;
+  position: absolute;
+  top: 1764px;
+  transform: rotate(-7deg);
+  width: 614px;
+}
+
+.fullhd .overlap-group5 {
+  height: 465px;
+  left: 0;
+  position: absolute;
+  top: 1825px;
+  width: 1184px;
+}
+
+.fullhd .offer-expires-9pm-local-220 {
+  color: var(--milano-red);
+  font-family: var(--font-family-superfruit-bold);
+  font-size: var(--font-size-xs);
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 100px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 1184px;
+}
+
+.fullhd .rectangle-2-2 {
+  height: 623px;
+  left: 727px;
+  position: absolute;
+  top: 3px;
+  transform: rotate(-83deg);
+  width: 227px;
+}
+
+.fullhd .bufficorn-section {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 55px;
+  min-height: 2058px;
+  padding: 0 0.0px;
+  position: absolute;
+  top: 12081px;
+  width: 1885px;
+}
+
+.fullhd .overlap-group8 {
+  height: 1813px;
+  margin-left: 0.18px;
+  position: relative;
+  width: 1885px;
+}
+
+.fullhd .rectangle-6-2 {
+  height: 686px;
+  left: 925px;
+  position: absolute;
+  top: 1119px;
+  width: 915px;
+}
+
+.fullhd .overlap-group7 {
+  height: 1813px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1885px;
+}
+
+.fullhd .image-2-8 {
+  height: 600px;
+  left: 56px;
+  position: absolute;
+  top: 56px;
+  transform: rotate(12deg);
+  width: 600px;
+}
+
+.fullhd .image-2-9 {
+  height: 600px;
+  left: 79px;
+  position: absolute;
+  top: 639px;
+  transform: rotate(-5deg);
+  width: 600px;
+}
+
+.fullhd .image-2-10 {
+  height: 600px;
+  left: 183px;
+  position: absolute;
+  top: 1174px;
+  transform: rotate(8deg);
+  width: 600px;
+}
+
+.fullhd .some-lucky-bros-flipped-some {
+  font-weight: 700;
+  left: 458px;
+  letter-spacing: 0;
+  line-height: 200px;
+  position: absolute;
+  text-align: center;
+  top: 25px;
+  width: 1427px;
+}
+
+.fullhd .we-snagged-thier-nametags-and {
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 100px;
+  margin-right: 34.0px;
+  margin-top: 92px;
+  min-height: 153px;
+  text-align: center;
+  width: 1781px;
+}
+
+.fullhd .notall-heroes {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  left: 20px;
+  min-height: 2132px;
+  padding: 49px 0;
+  position: absolute;
+  top: 14329px;
+  width: 1920px;
+}
+
+.fullhd .now-you-too-can-own-a-mcdonald {
+  color: var(--lightning-yellow);
+  font-family: var(--font-family-superfruit-bold);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 190px;
+  margin-top: 63px;
+  min-height: 900px;
+  text-align: center;
+  width: 1920px;
+}
+
+.fullhd .rectangle-8 {
+  height: 492px;
+  margin-left: 26.0px;
+  margin-top: 31px;
+  width: 1000px;
+}
+
+.fullhd .not-all-heroes-wear-capes-the {
+  color: var(--lightning-yellow);
+  font-family: var(--font-family-superfruit-bold);
+  font-size: var(--font-size-xs);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 100px;
+  margin-left: 28.0px;
+  margin-top: 45px;
+  min-height: 138px;
+  text-align: center;
+  width: 1426px;
+}
+
+.fullhd .nobroleftbehind {
+  align-self: flex-end;
+  color: var(--milano-red);
+  font-family: var(--font-family-sriracha);
+  font-size: var(--font-size-xs);
+  letter-spacing: 0;
+  margin-right: 7.6px;
+  margin-top: 159px;
+  min-height: 206px;
+  text-align: center;
+  width: 872px;
+}
+
+.fullhd .overlap-group9 {
+  height: 4479px;
+  left: 0;
+  position: absolute;
+  top: 16455px;
+  width: 1948px;
+}
+
+.fullhd .rectangle-8-1 {
+  background-color: var(--sangria);
+  height: 4477px;
+  left: 20px;
+  position: absolute;
+  top: 2px;
+  width: 1920px;
+}
+
+.fullhd .mcdonald-arches {
+  height: 343px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1948px;
+}
+
+.fullhd .image-4 {
+  height: 856px;
+  left: 1000px;
+  position: absolute;
+  top: 628px;
+  width: 856px;
+}
+
+.fullhd .bada-bop-bop-bop-im-livin-it-2 {
+  color: var(--lightning-yellow);
+  font-family: var(--font-family-superfruit-bold);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  left: 62px;
+  letter-spacing: 0;
+  line-height: 150px;
+  position: absolute;
+  text-align: center;
+  top: 529px;
+  transform: rotate(-21deg);
+  width: 934px;
+}
+
+.fullhd .x10-of-proceeds-go-to-ronald-m {
+  color: var(--lightning-yellow);
+  font-family: var(--font-family-superfruit-bold);
+  font-size: var(--font-size-s);
+  font-weight: 700;
+  left: 193px;
+  letter-spacing: 0;
+  line-height: 130px;
+  position: absolute;
+  text-align: center;
+  top: 1639px;
+  width: 1575px;
+}
+
+.fullhd .group-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 490px;
+  left: 197px;
+  min-width: 597px;
+  position: absolute;
+  top: 1000px;
+  transform: rotate(-2deg);
+}
+
+.fullhd .overlap-group-2 {
+  height: 490px;
+  position: relative;
+  width: 597px;
+}
+
+.fullhd .rectangle-3-1 {
+  height: 488px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 565px;
+}
+
+.fullhd .rectangle-2-3 {
+  height: 488px;
+  left: 32px;
+  position: absolute;
+  top: 2px;
+  width: 565px;
+}
+
+.fullhd .rectangle-10 {
+  background-color: var(--lightning-yellow);
+  height: 924px;
+  left: 242px;
+  position: absolute;
+  top: 2370px;
+  width: 1614px;
+}
+
+.fullhd .rectangle-9 {
+  height: 924px;
+  left: 231px;
+  position: absolute;
+  top: 2370px;
+  width: 572px;
+}
+
+.fullhd .dont-be-a-selfish-a-hole-bro {
+  color: var(--sangria);
+  font-family: var(--font-family-superfruit-bold);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  left: 799px;
+  letter-spacing: 0;
+  line-height: 144px;
+  position: absolute;
+  text-align: center;
+  top: 2374px;
+  width: 1050px;
+}
+
+.fullhd .rectangle-11 {
+  height: 590px;
+  left: 616px;
+  position: absolute;
+  top: 3650px;
+  width: 812px;
+}
+
+.fullhd .wow-youre-really-just-gonna {
+  color: var(--lightning-yellow);
+  font-family: var(--font-family-superfruit-bold);
+  font-size: var(--font-size-xxs);
+  font-weight: 700;
+  left: 361px;
+  letter-spacing: 0;
+  line-height: 96px;
+  position: absolute;
+  text-align: center;
+  top: 4240px;
+  width: 1280px;
+}
+
+.fullhd .coming-soon {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 117px;
+  min-height: 3669px;
+  position: absolute;
+  top: 21139px;
+  width: 1823px;
+}
+
+.fullhd .coming-soon-1 {
+  color: var(--sangria);
+  font-family: var(--font-family-superfruit-bold);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 200px;
+  margin-right: 89.0px;
+  min-height: 280px;
+  text-align: center;
+  width: 964px;
+}
+
+.fullhd .project-nobroleftbehind {
+  align-self: flex-start;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 200px;
+  margin-top: 24px;
+  min-height: 236px;
+  text-align: center;
+  white-space: nowrap;
+  width: 1744px;
+}
+
+.fullhd .you-container {
+  align-items: center;
+  align-self: flex-start;
+  display: flex;
+  height: 309px;
+  margin-left: 42px;
+  margin-top: 135px;
+  min-width: 1624px;
+}
+
+.fullhd .are-you-a-bro-working-the-fron {
+  color: var(--white);
+  font-family: var(--font-family-superfruit-bold);
+  font-size: var(--font-size-xxs);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 96px;
+  margin-bottom: 38.0px;
+  min-height: 217px;
+  text-align: center;
+  transform: rotate(-12deg);
+  width: 815px;
+}
+
+.fullhd .better-yet-did-you-quit {
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 144px;
+  margin-left: 164px;
+  min-height: 309px;
+  text-align: center;
+  transform: rotate(11deg);
+  width: 645px;
+}
+
+.fullhd .did-you-get-fired {
+  color: var(--white);
+  font-family: var(--font-family-superfruit-bold);
+  font-size: 288px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 288px;
+  margin-right: 129.0px;
+  margin-top: 86px;
+  min-height: 576px;
+  text-align: center;
+  width: 1460px;
+}
+
+.fullhd .with-project-nobroleftbehind {
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 144px;
+  margin-right: 59.0px;
+  margin-top: 76px;
+  min-height: 1426px;
+  text-align: justify;
+  width: 1614px;
+}
+
+.fullhd .coming-everywhere-at-eth-denve {
+  align-self: flex-end;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 144px;
+  margin-top: 129px;
+  min-height: 392px;
+  text-align: center;
+  width: 1388px;
+}

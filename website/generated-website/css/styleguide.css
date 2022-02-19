@@ -1,0 +1,49 @@
+:root { 
+  --lightning-yellow: #f8c822;
+  --milano-red: #c40a0a;
+  --sangria: #980909;
+  --white: #ffffff;
+ 
+  --font-size-l: 150px;
+  --font-size-m: 144px;
+  --font-size-s: 130px;
+  --font-size-xl: 190px;
+  --font-size-xs: 100px;
+  --font-size-xxl: 200px;
+  --font-size-xxs: 96px;
+ 
+  --font-family-sriracha: "Sriracha", Helvetica;
+  --font-family-superfruit-bold: "Superfruit-Bold", Helvetica;
+  --font-family-supermercado-regular: "Supermercado-Regular", Helvetica;
+}
+.superfruit-bold-white-144px {
+  color: var(--white);
+  font-family: var(--font-family-superfruit-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.superfruit-bold-milano-red-200px {
+  color: var(--milano-red);
+  font-family: var(--font-family-superfruit-bold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.superfruit-bold-white-100px {
+  color: var(--white);
+  font-family: var(--font-family-superfruit-bold);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.superfruit-bold-white-200px {
+  color: var(--white);
+  font-family: var(--font-family-superfruit-bold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}

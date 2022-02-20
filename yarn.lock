@@ -1799,6 +1799,11 @@
     "@nodelib/fs.scandir" "2.1.4"
     fastq "^1.6.0"
 
+"@openzeppelin/contracts-upgradeable@^4.5.1":
+  version "4.5.1"
+  resolved "https://registry.yarnpkg.com/@openzeppelin/contracts-upgradeable/-/contracts-upgradeable-4.5.1.tgz#dc354082460eb34f5833afdecfab46538b208c4f"
+  integrity sha512-xcKycsSyFauIGMhSeeTJW/Jzz9jZUJdiFNP9Wo/9VhMhw8t5X0M92RY6x176VfcIWsxURMHFWOJVTlFA78HI/w==
+
 "@openzeppelin/contracts@4.4.0":
   version "4.4.0"
   resolved "https://registry.yarnpkg.com/@openzeppelin/contracts/-/contracts-4.4.0.tgz#4a1df71f736c31230bbbd634dfb006a756b51e6b"
@@ -5338,6 +5343,11 @@ dot-prop@^4.1.0:
   integrity sha512-l0p4+mIuJIua0mhxGoh4a+iNL9bmeK5DvnSVQa6T0OhrVmaEa1XScX5Etc673FePCJOArq/4Pa2cLGODUWTPOQ==
   dependencies:
     is-obj "^1.0.0"
+
+dotenv@^16.0.0:
+  version "16.0.0"
+  resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-16.0.0.tgz#c619001253be89ebb638d027b609c75c26e47411"
+  integrity sha512-qD9WU0MPM4SWLPJy/r2Be+2WgQj8plChsyrCNQzW/0WjvcJQiKQJ9mH3ZgB3fxbUUxgc/11ZJ0Fi5KiimWGz2Q==
 
 dotignore@~0.1.2:
   version "0.1.2"

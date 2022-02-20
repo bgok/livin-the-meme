@@ -1,0 +1,12 @@
+{
+  "name": "Amy",
+  "description": "When you lose all your savings at the dip but you are a humble queen.",
+  "image": "ipfs://QmbNp1ZJbXgzxQ7Nr4xN5bYaxmo76ZNWwCz448F3WLwiVs/AmyBadge.svg",
+  "attributes": [{
+    "trait_type": "origin",
+    "value": "premium drop"
+  },{
+    "trait_type": "authenticity",
+    "value": "custom"
+  }]
+}

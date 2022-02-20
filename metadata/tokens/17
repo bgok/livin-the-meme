@@ -1,0 +1,12 @@
+{
+  "name": "Kimmy",
+  "description": "There's always that one girl at work.",
+  "image": "ipfs://QmbNp1ZJbXgzxQ7Nr4xN5bYaxmo76ZNWwCz448F3WLwiVs/KimmyBadge.png",
+  "attributes": [{
+    "trait_type": "origin",
+    "value": "premium drop"
+  },{
+    "trait_type": "authenticity",
+    "value": "custom"
+  }]
+}

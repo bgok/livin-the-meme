@@ -1,0 +1,12 @@
+{
+  "name": "Chico",
+  "description": "Crypto dip, youtube dip, McDonalds moon!",
+  "image": "ipfs://QmbNp1ZJbXgzxQ7Nr4xN5bYaxmo76ZNWwCz448F3WLwiVs/ChicoBadge.png",
+  "attributes": [{
+    "trait_type": "origin",
+    "value": "premium drop"
+  },{
+    "trait_type": "authenticity",
+    "value": "custom"
+  }]
+}

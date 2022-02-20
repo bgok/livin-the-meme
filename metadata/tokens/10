@@ -1,0 +1,12 @@
+{
+  "name": "Betty",
+  "description": "Guarenteed hire.",
+  "image": "ipfs://QmbNp1ZJbXgzxQ7Nr4xN5bYaxmo76ZNWwCz448F3WLwiVs/BettyBadge.svg",
+  "attributes": [{
+    "trait_type": "origin",
+    "value": "premium drop"
+  },{
+    "trait_type": "authenticity",
+    "value": "original"
+  }]
+}

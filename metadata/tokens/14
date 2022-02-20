@@ -1,0 +1,12 @@
+{
+  "name": "Josh",
+  "description": "Sorry doesn't sweeten my tea!",
+  "image": "ipfs://QmbNp1ZJbXgzxQ7Nr4xN5bYaxmo76ZNWwCz448F3WLwiVs/JoshBadge.png",
+  "attributes": [{
+    "trait_type": "origin",
+    "value": "premium drop"
+  },{
+    "trait_type": "authenticity",
+    "value": "custom"
+  }]
+}

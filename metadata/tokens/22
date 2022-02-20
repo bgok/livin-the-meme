@@ -1,0 +1,12 @@
+{
+  "name": "Vitalik",
+  "description": "Metaverse Mcdonalds employee of the year!",
+  "image": "ipfs://QmbNp1ZJbXgzxQ7Nr4xN5bYaxmo76ZNWwCz448F3WLwiVs/VitalikNFTBadge.svg",
+  "attributes": [{
+    "trait_type": "origin",
+    "value": "premium drop"
+  },{
+    "trait_type": "authenticity",
+    "value": "custom"
+  }]
+}

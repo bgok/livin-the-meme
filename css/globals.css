@@ -4,7 +4,7 @@
 @font-face {
   font-family: "Superfruit-Bold";
   font-weight: 1 1000;
-  src: url("fonts/SuperfruitBold-MlBY.ttf") format("truetype");
+  src: url("../fonts/SuperfruitBold-MlBY.ttf") format("truetype");
 }
 
 /* The following line is used to measure usage of this code in production. For more info see our usage billing page */

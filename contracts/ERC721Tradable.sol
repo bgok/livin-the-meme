@@ -47,7 +47,7 @@ abstract contract ERC721Tradable is ERC721, ContextMixin, NativeMetaTransaction,
         _initializeEIP712(_name);
     }
 
-    function getNextTokenId() protected returns(uint256) {
+    function getNextTokenId() internal returns(uint256) {
         return _nextTokenId.current();
     }
 
@@ -55,7 +55,7 @@ abstract contract ERC721Tradable is ERC721, ContextMixin, NativeMetaTransaction,
      * @dev Mints a token to an address with a tokenURI.
      * @param _to address of the future owner of the token
      */
-    function mintTo(address _to) public onlyOwner {
+    function mintTo(address _to) public virtual onlyOwner {
         uint256 currentTokenId = _nextTokenId.current();
         _nextTokenId.increment();
         _safeMint(_to, currentTokenId);

@@ -5,7 +5,7 @@
   background-color: var(--white);
   display: flex;
   height: 25485.0px;
-  min-width: 1920px;
+  min-width: 100%;
   overflow-x: hidden;
 }
 
@@ -22,7 +22,7 @@
   left: 20px;
   position: absolute;
   top: 0;
-  width: 1920px;
+  width: 100%;
 }
 
 .fullhd .overlap-group {
@@ -90,7 +90,7 @@
   left: 9px;
   position: absolute;
   top: 430px;
-  width: 1931px;
+  width: 100%;
 }
 
 .fullhd .redline-seperator {
@@ -99,7 +99,7 @@
   left: 19px;
   position: absolute;
   top: 590px;
-  width: 1926px;
+  width: 100%;
 }
 
 .fullhd .crypto-dip {
@@ -112,7 +112,7 @@
   padding: 86px 25px;
   position: absolute;
   top: 754px;
-  width: 1920px;
+  width: 100%;
 }
 
 .fullhd .flex-row {
@@ -263,7 +263,7 @@
   min-height: 3905px;
   position: absolute;
   top: 5010px;
-  width: 1921px;
+  width: 100%;
 }
 
 .fullhd .title {
@@ -322,7 +322,7 @@
   margin-right: 1.0px;
   margin-top: 7px;
   position: relative;
-  width: 1920px;
+  width: 100%;
 }
 
 .fullhd .image-2-5 {
@@ -357,7 +357,7 @@
   margin-top: 79px;
   min-height: 451px;
   text-align: center;
-  width: 1920px;
+  width: 100%;
 }
 
 .fullhd .image-container-1 {
@@ -415,7 +415,7 @@
   padding: 110.9px 36.1px;
   position: absolute;
   top: 9094px;
-  width: 1920px;
+  width: 100%;
 }
 
 .fullhd .group-3 {
@@ -727,7 +727,7 @@
   padding: 49px 0;
   position: absolute;
   top: 14329px;
-  width: 1920px;
+  width: 100%;
 }
 
 .fullhd .now-you-too-can-own-a-mcdonald {
@@ -740,7 +740,7 @@
   margin-top: 63px;
   min-height: 900px;
   text-align: center;
-  width: 1920px;
+  width: 100%;
 }
 
 .fullhd .rectangle-8 {
@@ -791,7 +791,7 @@
   left: 20px;
   position: absolute;
   top: 2px;
-  width: 1920px;
+  width: 100%;
 }
 
 .fullhd .mcdonald-arches {
